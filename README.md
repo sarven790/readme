@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarven YANIK</h1>
+<h1>Hi 👋, I'm Sarven YANIK</h1>
 <p>A passionate full stack developer from Turkey</p>
 
 <h3 align="left">Connect with me:</h3>
